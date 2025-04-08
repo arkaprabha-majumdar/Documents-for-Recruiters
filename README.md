@@ -1,4 +1,4 @@
-# theses
+# Dissertation / theses
 
 Contained here are two PDF files:
 
@@ -12,3 +12,7 @@ Win-Loss is a process to differentiate why one sales effort wins while another f
 Traditional statistical methods along with modern classification techniques like kNN and LGBM have been used.
 
 Conclusions on the scale of disturbance activated by the COVID-19 emergency – counting diminished physical developments and cash stream weights – tossing the errand of treasury into sharp alleviation.
+
+## Amazon books sold - screenshot of dashboard
+on R and Python : https://www.amazon.com/s?k=arkaprabha
+Golang Programming(https://www.amazon.com/dp/B0CFHFRNSY) - I write under "Machine L"
