@@ -16,3 +16,6 @@ Conclusions on the scale of disturbance activated by the COVID-19 emergency – 
 ## Amazon books sold - screenshot of dashboard
 - on R and Python : https://www.amazon.com/s?k=arkaprabha
 - Golang Programming(https://www.amazon.com/dp/B0CFHFRNSY) - I write under "Machine L"
+
+My articles:
+https://www.askpython.com/python/monte-carlo-in-python
