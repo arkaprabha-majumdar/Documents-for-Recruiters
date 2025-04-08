@@ -14,5 +14,5 @@ Traditional statistical methods along with modern classification techniques like
 Conclusions on the scale of disturbance activated by the COVID-19 emergency – counting diminished physical developments and cash stream weights – tossing the errand of treasury into sharp alleviation.
 
 ## Amazon books sold - screenshot of dashboard
-on R and Python : https://www.amazon.com/s?k=arkaprabha
-Golang Programming(https://www.amazon.com/dp/B0CFHFRNSY) - I write under "Machine L"
+- on R and Python : https://www.amazon.com/s?k=arkaprabha
+- Golang Programming(https://www.amazon.com/dp/B0CFHFRNSY) - I write under "Machine L"
